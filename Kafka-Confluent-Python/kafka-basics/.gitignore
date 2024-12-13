@@ -1,0 +1,13 @@
+# Ignore specific configuration files
+client.properties
+config.txt
+
+# Optional: Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Optional: Ignore Kafka logs (if any)
+logs/
+
+# Optional: Ignore virtual environment (if using one)
+venv/
