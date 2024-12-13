@@ -11,3 +11,5 @@ logs/
 
 # Optional: Ignore virtual environment (if using one)
 venv/
+config/
+schema-registry/
